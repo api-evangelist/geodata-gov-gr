@@ -39,7 +39,6 @@ apis:
   - name: Geodata.gov.gr
     description: "Open geospatial data and API service for Greece"
     humanURL: https://geodata.gov.gr/en/
-    baseURL: https://geodata.gov.gr/en/
     tags:
       - Geocoding
     properties:
